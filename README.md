@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a WIP guide to all things bonsai! Being a noobie myself, my aim is to update this whenever I learn information that will be pertinent to my growth as a bonsai caultivar as well as you :wink:
+This is a WIP guide to all things bonsai! Being a noobie myself, my aim is to update this whenever I learn information that will be pertinent to my growth as a bonsai cultivar as well as you :wink:
 
 ---
 
@@ -21,6 +21,7 @@ This is a WIP guide to all things bonsai! Being a noobie myself, my aim is to up
 
 # Bonsai Forms
 
+<a id="bonsai-forms"></a>
 Although all bonsai are simply trees that are miniautre (meaning that they grow upright), there are certain forms that can be attributed to unique styles/names.
 <br />
 <br />
@@ -69,6 +70,7 @@ Another proponent that make a bonsai tree bonsai is the bare branch structure / 
 
 # Growing Bonsai
 
+<a id="growing-bonsai"></a>
 Although deciding on a bonsai form is very important in how you go about caring for the tree, growing it is obviously paramount! You can have a beautiful bonsai if its dead :grimacing:
 
 <br />
@@ -117,6 +119,7 @@ Examples:
 
 # Training Bonsai
 
+<a id="training-bonsai"></a>
 Argubly the most impactful part of raising bonsai tree is how it is trained. There are many techniques and rules of thumb when training bonsai
 
 ## Wiring
