@@ -10,11 +10,11 @@ This is a WIP guide to all things bonsai! Being a noobie myself, my aim is to up
 
 ## Table of Contents
 
-## [Bonsai Forms](#bonsai-forms)
+### [Bonsai Forms](#bonsai-forms)
 
-## [Growing Bonsai](#growing-bonsai)
+### [Growing Bonsai](#growing-bonsai)
 
-## [Training Bonsai](#training-bonsai)
+### [Training Bonsai](#training-bonsai)
 
 <br />
 <br />
