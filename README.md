@@ -162,8 +162,40 @@ There is the method of pulling down a branch via anchor and tension if wiring it
 
 ---
 
-Bonsai is an art form and should show your personality so don't be afraid to be expressive! At the end of the day these are plants that are pretty malleable and resilient. You got this!
+Bonsai is an art form and should show your personality so don't be afraid to be expressive! At the end of the day these are plants that are pretty malleable and resilient. You got this! :metal:
 
 <br />
 
 # Resources
+
+## Training
+
+[creating movement in bonsai (video)](https://www.youtube.com/watch?v=bwX0hxAdL4A)
+
+[wiring a juniper tree (video)](https://www.youtube.com/watch?v=2_9gmF8Nx_A)
+
+[wiring bonsai with diagrams](https://www.bonsai-shop.com/en/styling/wiring)
+
+<br />
+
+## Nebari
+
+[creating nebari in young plants (video)](https://www.youtube.com/watch?v=f_r75vJfyho)
+
+## Pruning
+
+[how to prune bonsai (video)](https://www.youtube.com/watch?v=cOGAJ5iqWfk)
+
+## Styling
+
+[styling guide and tips to avoid (video)](https://www.youtube.com/watch?v=9QlzgDtpg1M)
+
+[bonsai styling animation (video)](https://www.youtube.com/watch?v=UJUpfRkv4_Y)
+
+## Soil
+
+[bonsai soil composition discussion (video)](https://www.youtube.com/watch?v=gcuYHllBmaM)
+
+## Progression/Inspiration
+
+[timelapse of tamarind bonsai (see channel for more!)](https://www.youtube.com/watch?v=nhvTpXF8n7o)
